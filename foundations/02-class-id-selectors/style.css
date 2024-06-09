@@ -1,0 +1,27 @@
+.Number1 {
+    background-color: pink;
+    font-family: Verdana;
+}
+
+#Number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.Number3 {
+    background-color: pink;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+#Number4 {
+    background-color: rgb(145, 228, 145);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Number5 {
+    background-color: pink;
+    font-size: 24px;
+    font-family: Verdana;
+}
